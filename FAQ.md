@@ -23,3 +23,4 @@ Here is an image showing the parts that you need to change highlighted in yellow
 5. Upload your images. Again, click up upload items (the same button you used for the json) and upload your images. Make sure the files names match what is in the json. This will take a lot of time. For collections over 100 it could take as much as 30 minutes. Please do not refresh page, just be patient.
 
 6. Click create to create collection.
+7. Here is a video showing upload: https://share.vidyard.com/watch/Ru6XNYTQSrYEBLzDgVnerv
