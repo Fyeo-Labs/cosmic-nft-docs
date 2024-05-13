@@ -1,7 +1,7 @@
 **Frequently Asked Questions**
 
 How do I bulk upload json?
-
+<br>See below or watch this video: https://share.vidyard.com/watch/XTx5aqbBCMQyHCxEfSJ3aA<br>
 1. Make sure your wallet is connected and go to "create" at the top right
 
 <img width="847" alt="Screenshot 2024-05-09 at 10 57 38 AM" src="https://github.com/Fyeo-Labs/cosmic-nft-docs/assets/153206055/5946a708-225f-463f-b2f1-f6704904774d">
@@ -23,4 +23,4 @@ Here is an image showing the parts that you need to change highlighted in yellow
 5. Upload your images. Again, click up upload items (the same button you used for the json) and upload your images. Make sure the files names match what is in the json. This will take a lot of time. For collections over 100 it could take as much as 30 minutes. Please do not refresh page, just be patient.
 
 6. Click create to create collection.
-7. Here is a video showing upload: https://share.vidyard.com/watch/Ru6XNYTQSrYEBLzDgVnerv
+  
