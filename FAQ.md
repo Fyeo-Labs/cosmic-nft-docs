@@ -14,7 +14,7 @@ How do I bulk upload json?
 
 <img width="176" alt="Screenshot 2024-05-09 at 10 59 17 AM" src="https://github.com/Fyeo-Labs/cosmic-nft-docs/assets/153206055/7c1233c6-9eb0-4cb7-9618-a7010efbf836">
 
-Your json file needs to be in the correct format which is attached. 
+Your json file needs to be in the correct format which is attached. click this link, do not format in .txt this is just a link:
 [Cosmic_json.txt](https://github.com/Fyeo-Labs/cosmic-nft-docs/files/15263931/Cosmic_json.txt)
 Here is an image showing the parts that you need to change highlighted in yellow. Note, you can have more or less attributes than this sample as long as the formatting is the same. Anything not in yellow please leave as is.
 
