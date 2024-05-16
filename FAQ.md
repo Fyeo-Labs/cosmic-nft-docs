@@ -17,3 +17,5 @@ Thank you, space crew, we love help! Please create an issue in our community git
 Please follow this guide from Xaman: https://help.xumm.app/app/xahau/activating-a-xahau-account
 <p><b>6. How Do I teleport my XRP to XAH?</b><br>
 This video does a good job of explaining teleport: https://www.youtube.com/watch?v=wsGSGMuNTSw
+<p><b>7. I pressed mint but I don't see any NFT minted, where is it?</b><br>
+Chances are you were not signed in when you pressed mint. Unless you were already connected (top right of screen) when you press mint it will ask you to sign a transaction to log in. This is not minting, just signing in. Once you are signed in you can try mint and it will ask you to sign a remit transaction. You will know you are minting because you will see the price.
