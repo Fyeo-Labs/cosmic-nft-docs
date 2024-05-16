@@ -20,4 +20,4 @@ This video does a good job of explaining teleport: https://www.youtube.com/watch
 <p><b>7. I pressed mint but I don't see any NFT minted, where is it?</b><br>
 Chances are you were not signed in when you pressed mint. Unless you were already connected (top right of screen) when you press mint it will ask you to sign a transaction to log in. This is not minting, just signing in. Once you are signed in you can try mint and it will ask you to sign a remit transaction. You will know you are minting because you will see the price.
 <p><b>8. The site isn't loading.</b><br>
-Try typing just cosmicxahau.com into your chrome browser, no www. That should fix it.
+Try typing just cosmicxahau.com into your chrome browser, no www That should fix it.
