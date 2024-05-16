@@ -13,3 +13,7 @@ You can request to create a collection by filling out this form: https://docs.go
 Please go to our discord and create a ticket so someone can help you. https://discord.gg/YeVQTRn5P4
 <p><b>5. Where can I report a bug or a suggestion?</b><br>
 Thank you, space crew, we love help! Please create an issue in our community github: https://github.com/Fyeo-Labs/cosmic-nft-docs/issues
+<p><b>6. How Do I set up a Xahau Wallet?</b><br>
+Please follow this guide from Xaman: https://help.xumm.app/app/xahau/activating-a-xahau-account
+<p><b>6. How Do I teleport my XRP to XAH?</b><br>
+This video does a good job of explaining teleport: https://www.youtube.com/watch?v=wsGSGMuNTSw
