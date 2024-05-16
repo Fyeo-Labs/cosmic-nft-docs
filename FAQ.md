@@ -1,3 +1,4 @@
+![newastro5 copy](https://github.com/Fyeo-Labs/cosmic-nft-docs/assets/153206055/2b9ff6a5-d535-49cf-937e-d8475f34f8c9)<br><B>Cosmic FAQs</b><br>
 
 <p><b>1. What Browser Can I Use?</b><br>
 We ask that everyone use the Chrome browser for interacting with the Cosmic Xahau Platform for the best user experience.
