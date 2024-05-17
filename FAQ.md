@@ -21,3 +21,6 @@ This video does a good job of explaining teleport: https://www.youtube.com/watch
 Chances are you were not signed in when you pressed mint. Unless you were already connected (top right of screen) when you press mint it will ask you to sign a transaction to log in. This is not minting, just signing in. Once you are signed in you can try mint and it will ask you to sign a remit transaction. You will know you are minting because you will see the price.
 <p><b>8. The site isn't loading, how do I get to the site?</b><br>
 Try typing just cosmicxahau.com into your chrome browser, no www That should fix it.
+<p><b>8. Where can I see my owned NFTs?</b><br>
+You can see your owned NFTs by going to CosmicXahau.com and connecting your wallet then clicking on Profile. You can also put your wallet address into the NFT search on XahauExplorer.com. We have been told that Xaman will be releasing an update in the near future to support seeing all your Xahau NFTs in the wallet.
+
