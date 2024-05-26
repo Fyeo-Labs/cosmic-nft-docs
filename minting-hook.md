@@ -1,17 +1,15 @@
 # Hook for minting
 
+## Triggers
+This should be triggered when a payment is received in a wallet with a specific parameter called `CosmicMinting`
+
 ## Inputs
-
-`URIToken`: String - Token to be minted
-
-`IssuerAddress`: String - Address who is issuing the token
-
-`DestinationAddress`: String - Address who would own the token
+`URIToken`: String - Token to be minted \
+`IssuerAddress`: String - Address who is issuing the token \
+`DestinationAddress`: String - Address who would own the token \
 
 ## Output
-
-`NFTId`: String
-
+`NFTId`: String\
 `TxnId`: String
 
 ## Implementation details
