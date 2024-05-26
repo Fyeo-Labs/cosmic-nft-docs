@@ -21,3 +21,11 @@ This should be triggered when a payment is received in a wallet with a specific 
 ## Questions
 - Is there any timeout for hooks to finish their execution?
 - Can we do all the above steps in one transaction?
+
+
+## For cosmic backend
+- Watch for transactions on chain
+- Check if the transactions are for our collection creators
+- Check if the transactions was done by our hook
+- Update our database with the new information, like NFTId, TxnId, etc
+- Keep minting open to other wallets while a specific wallet is minting a specific URIToken
