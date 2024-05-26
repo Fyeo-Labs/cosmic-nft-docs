@@ -1,13 +1,18 @@
 # Hook for minting
 
 ## Inputs
-URIToken: String - Token to be minted
-IssuerAddress: String - Address who is issuing the token
-DestinationAddress: String - Address who would own the token
+
+`URIToken`: String - Token to be minted
+
+`IssuerAddress`: String - Address who is issuing the token
+
+`DestinationAddress`: String - Address who would own the token
 
 ## Output
-NFTId: String
-TxnId: String
+
+`NFTId`: String
+
+`TxnId`: String
 
 ## Implementation details
 - Mint an URIToken and make sure the issuer is `issuerAddress` and destination is `destinationAddress`
