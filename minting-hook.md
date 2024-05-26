@@ -14,6 +14,7 @@ This should be triggered when a payment is received in a wallet with a memo call
 `TxnId`: String
 
 ## Implementation details
+- Validate that payment amount is aleast the minting price and greater than 5 XAH
 - Mint an URIToken and make sure the issuer is `issuerAddress` and destination is `destinationAddress`
 - Wait for minted transaction to be validated - Do we need that?
 - Deduct -> 5% for cosmic + 2 * network fees + 2 XAH reserve for NFT (Remit)
