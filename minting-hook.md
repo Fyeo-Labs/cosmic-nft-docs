@@ -1,7 +1,7 @@
 # Hook for minting
 
 ## Triggers
-This should be triggered when a payment is received in a wallet with a specific parameter called `CosmicMinting`
+This should be triggered when a payment is received in a wallet with a memo called `CosmicMintingRequest`
 
 ## Inputs
 `URIToken`: String - Token to be minted \
