@@ -7,6 +7,7 @@ This should be triggered when a payment is received in a wallet with a memo call
 `URIToken`: String - Token to be minted \
 `IssuerAddress`: String - Address who is issuing the token \
 `DestinationAddress`: String - Address who would own the token \
+`MintPrice`: String - Minting price
 
 ## Output
 `NFTId`: String\
