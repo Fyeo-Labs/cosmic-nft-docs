@@ -1,7 +1,11 @@
 ![newastro5 copy](https://github.com/Fyeo-Labs/cosmic-nft-docs/assets/153206055/2b9ff6a5-d535-49cf-937e-d8475f34f8c9)<br><B>Cosmic FAQs</b><br>
 
 <p><b>1. What Browser Can I Use?</b><br>
-We ask that everyone use the Chrome browser for interacting with the Cosmic Xahau Platform for the best user experience.
+We ask that everyone use the Chrome browser for interacting with the Cosmic Xahau Platform for the best user experience. Cosmic works on desktop and mobile. <p><b>For Mobile, follow these steps:</b></p>
+  <br> a. Go to applications and ensure chrome is your default mobile browser
+  <br> b. Open Xaman and ensure you are on the Xahau network (not the XRPL)
+  <br> c. Go to CosmicXahau.com and select the 3 lines on the top right of the screen
+  <br> d. Click connect, it will prompt you to open your xaman wallet to sign the login, and you will be redirected back to your mobile chrome browser and can use Cosmic on mobile
 <p>
 <b>2. Can I Mint On Mobile?</b><br>
 For now, we have disabled minting on mobile until Star commmand has time to test the experience on smaller screen sizes.
