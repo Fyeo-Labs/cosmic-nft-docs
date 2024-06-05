@@ -22,5 +22,5 @@ Chances are you were not signed in when you pressed mint. Unless you were alread
 <p><b>8. The site isn't loading, how do I get to the site?</b><br>
 Try typing just cosmicxahau.com into your chrome browser, no www That should fix it.
 <p><b>8. Where can I see my owned NFTs?</b><br>
-You can see your owned NFTs by going to CosmicXahau.com and connecting your wallet then clicking on Profile. You can also put your wallet address into the NFT search on XahauExplorer.com. We have been told that Xaman will be releasing an update in the near future to support seeing all your Xahau NFTs in the wallet.
+You can see your owned NFTs by going to CosmicXahau.com and connecting your wallet then clicking on Profile. You can also put your wallet address into the NFT search on XahauExplorer.com. We have been told that Xaman will be releasing an update in the near future to support seeing all your Xahau NFTs in the wallet. Please note, if you bought your NFT outside of the Cosmic Platform you will not currently see it in your MY NFT section of Cosmic. We hope to update soon to pull in all Xahau NFTs into your MY NFT view.
 
